@@ -1,0 +1,1 @@
+config['ref_genome']='path/to/{species}/{genome_version}.primary_assembly.genome.fa'.format(species=config['species'], genome_version=config['genome_version'])

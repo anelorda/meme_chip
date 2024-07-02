@@ -1,0 +1,15 @@
+species: hsapiens
+genome_version: 42/GRCh38
+dataset: 'JASPAR2022_CORE_vertebrates_non-redundant_pfms_meme.txt'
+number_of_models: 10
+samples: 
+   - GSE*****
+   - GSE*****
+
+peak_filtering_methods:
+  #  - idr.conservative
+  #  - idr.optimal
+  #  - overlap.conservative
+  #  - overlap.optimal
+
+
